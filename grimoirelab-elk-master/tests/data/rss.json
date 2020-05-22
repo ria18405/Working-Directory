@@ -1,0 +1,1674 @@
+[{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/connect-2016-developer-workshop",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/connect-2016-developer-workshop",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 06 Dec 2016 17:17:00 +0000",
+        "published_parsed": [
+            2016,
+            12,
+            6,
+            17,
+            17,
+            0,
+            1,
+            341,
+            0
+        ],
+        "summary": "<p>For the first day of Couchbase Connect 2016, I created a full-day developer\u2019s workshop (with the help of our great SDK team, of course). It was great meeting some of our customers and helping people get up to speed with Couchbase Server. For those of you that couldn\u2019t make it, the <a href=\"https://github.com/couchbaselabs/workshop/tree/master/connect2016/developer\">materials are all open sourced</a>.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>For the first day of Couchbase Connect 2016, I created a full-day developer\u2019s workshop (with the help of our great SDK team, of course). It was great meeting some of our customers and helping people get up to speed with Couchbase Server. For those of you that couldn\u2019t make it, the <a href=\"https://github.com/couchbaselabs/workshop/tree/master/connect2016/developer\">materials are all open sourced</a>.</p>"
+        },
+        "title": "Connect 2016 Developer Workshop",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Connect 2016 Developer Workshop"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.425892,
+    "updated_on": 1481044620.0,
+    "uuid": "98572defb3a652afbfdfe96517edefb88a22dcfa"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/december/create-a-url-shortener-with-nodejs-and-couchbase-using-n1ql",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/december/create-a-url-shortener-with-nodejs-and-couchbase-using-n1ql",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 05 Dec 2016 16:24:00 +0000",
+        "published_parsed": [
+            2016,
+            12,
+            5,
+            16,
+            24,
+            0,
+            0,
+            340,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Create a URL Shortener with Node.js and Couchbase using N1QL",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Create a URL Shortener with Node.js and Couchbase using N1QL"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.426756,
+    "updated_on": 1480955040.0,
+    "uuid": "e3b0d7463fca0c47d82debc3ddc37d8906f77548"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Manuel Hurtado",
+        "author_detail": {
+            "name": "Manuel Hurtado"
+        },
+        "authors": [
+            {
+                "name": "Manuel Hurtado"
+            }
+        ],
+        "avatar": "/content/gallery/manuelhurtado.jpg/manuelhurtado.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/december/elt-processing-with-couchbase-and-n1ql",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/december/elt-processing-with-couchbase-and-n1ql",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Sun, 04 Dec 2016 21:14:00 +0000",
+        "published_parsed": [
+            2016,
+            12,
+            4,
+            21,
+            14,
+            0,
+            6,
+            339,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "ELT processing with Couchbase and N1QL",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "ELT processing with Couchbase and N1QL"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.427123,
+    "updated_on": 1480886040.0,
+    "uuid": "28bca39353ff0825f53b157b69da319e2f49ab4d"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/december/kubernetes-monitoring-heapster-influxdb-grafana",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/december/kubernetes-monitoring-heapster-influxdb-grafana",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Sat, 03 Dec 2016 02:48:00 +0000",
+        "published_parsed": [
+            2016,
+            12,
+            3,
+            2,
+            48,
+            0,
+            5,
+            338,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Kubernetes Monitoring with Heapster, InfluxDB and Grafana",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Kubernetes Monitoring with Heapster, InfluxDB and Grafana"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.427451,
+    "updated_on": 1480733280.0,
+    "uuid": "1369423496debbb2d952a004d4ee3e56b9bd9a5a"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/december/houston-user-group-visits-october-2016-videos",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/december/houston-user-group-visits-october-2016-videos",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Fri, 02 Dec 2016 14:23:00 +0000",
+        "published_parsed": [
+            2016,
+            12,
+            2,
+            14,
+            23,
+            0,
+            4,
+            337,
+            0
+        ],
+        "summary": "<p>I spent nearly a week in Texas, visiting four user groups and talking about <a href=\"http://developer.couchbase.com/documentation/server/current/introduction/intro.html?utm_source=blogs&amp;utm_medium=link&amp;utm_campaign=blogs\">Couchbase</a> as much as possible.</p>\n\n<p>The second two days of the week I spent in Houston. Here are the videos:</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>I spent nearly a week in Texas, visiting four user groups and talking about <a href=\"http://developer.couchbase.com/documentation/server/current/introduction/intro.html?utm_source=blogs&amp;utm_medium=link&amp;utm_campaign=blogs\">Couchbase</a> as much as possible.</p>\n\n<p>The second two days of the week I spent in Houston. Here are the videos:</p>"
+        },
+        "title": "Houston User Group Visits - October 2016 (Videos)",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Houston User Group Visits - October 2016 (Videos)"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.427763,
+    "updated_on": 1480688580.0,
+    "uuid": "99ee07a921fef03418a9113b752bd3542cff86fd"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/austin-user-group-visits-october-2016-videos",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/austin-user-group-visits-october-2016-videos",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 29 Nov 2016 16:12:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            29,
+            16,
+            12,
+            0,
+            1,
+            334,
+            0
+        ],
+        "summary": "<p>I spent nearly a week in Texas, visiting four user groups and talking about <a href=\"http://developer.couchbase.com/documentation/server/current/introduction/intro.html?utm_source=blogs&amp;utm_medium=link&amp;utm_campaign=blogs\">Couchbase</a> as much as possible.</p>\n\n<p>The first two days of the week I spent in Austin. Here are the videos:</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>I spent nearly a week in Texas, visiting four user groups and talking about <a href=\"http://developer.couchbase.com/documentation/server/current/introduction/intro.html?utm_source=blogs&amp;utm_medium=link&amp;utm_campaign=blogs\">Couchbase</a> as much as possible.</p>\n\n<p>The first two days of the week I spent in Austin. Here are the videos:</p>"
+        },
+        "title": "Austin User Group Visits - October 2016 (Videos)",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Austin User Group Visits - October 2016 (Videos)"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.428083,
+    "updated_on": 1480435920.0,
+    "uuid": "d2a7594973bb891485a8c1fed060b951dc8635e1"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Hod Greeley",
+        "author_detail": {
+            "name": "Hod Greeley"
+        },
+        "authors": [
+            {
+                "name": "Hod Greeley"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/hodgreeley-copy.jpg/hodgreeley-copy.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/comfortable-couchbase-mobile-couchbase-web-console",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/comfortable-couchbase-mobile-couchbase-web-console",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Sun, 27 Nov 2016 23:20:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            27,
+            23,
+            20,
+            0,
+            6,
+            332,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Getting Comfortable with Couchbase Mobile: Couchbase Web Console",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Getting Comfortable with Couchbase Mobile: Couchbase Web Console"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.42839,
+    "updated_on": 1480288800.0,
+    "uuid": "47b9c643457891fdbb057d6f616fe0ac3a90b204"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/couchbase-cluster-mesos-dcos",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/couchbase-cluster-mesos-dcos",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Wed, 23 Nov 2016 17:13:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            23,
+            17,
+            13,
+            0,
+            2,
+            328,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Couchbase Cluster on Mesos with DC/OS",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Couchbase Cluster on Mesos with DC/OS"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.428702,
+    "updated_on": 1479921180.0,
+    "uuid": "48d5cc5dcbec1ba8828012713f44c752050b711e"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/storing-password-data-safely-with-nodejs",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/storing-password-data-safely-with-nodejs",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 22 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            22,
+            15,
+            0,
+            0,
+            1,
+            327,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Storing Password Data Safely with Node.js and Bcrypt",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Storing Password Data Safely with Node.js and Bcrypt"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.429006,
+    "updated_on": 1479826800.0,
+    "uuid": "bc8a5fd83497c013855e5d8bdce307d3be50fd9a"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/.net-core-with-visual-studio-code",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/.net-core-with-visual-studio-code",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Fri, 18 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            18,
+            15,
+            0,
+            0,
+            4,
+            323,
+            0
+        ],
+        "summary": "<p>Jeff Morris already wrote a great <a href=\"http://blog.couchbase.com/2016/october/introducing-couchbase-.net-sdk-core-2.4.0-dp1\">blog post to introduce the Couchbase .NET Core SDK</a>, which is now in developer preview.</p>\n\n<p>I\u2019m going to show you some of the tooling that I\u2019m using to write .NET Core on Windows: Visual Studio Code (VSC) and extensions.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>Jeff Morris already wrote a great <a href=\"http://blog.couchbase.com/2016/october/introducing-couchbase-.net-sdk-core-2.4.0-dp1\">blog post to introduce the Couchbase .NET Core SDK</a>, which is now in developer preview.</p>\n\n<p>I\u2019m going to show you some of the tooling that I\u2019m using to write .NET Core on Windows: Visual Studio Code (VSC) and extensions.</p>"
+        },
+        "title": ".NET Core with Visual Studio Code",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": ".NET Core with Visual Studio Code"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.429313,
+    "updated_on": 1479481200.0,
+    "uuid": "12e4b915744fea2fd319153eeef646f5a06dbb8b"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Hod Greeley",
+        "author_detail": {
+            "name": "Hod Greeley"
+        },
+        "authors": [
+            {
+                "name": "Hod Greeley"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/hodgreeley-copy.jpg/hodgreeley-copy.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/getting-comfortable-with-couchbase-mobile-installing-couchbase-server",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/getting-comfortable-with-couchbase-mobile-installing-couchbase-server",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Wed, 16 Nov 2016 23:52:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            16,
+            23,
+            52,
+            0,
+            2,
+            321,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Getting Comfortable with Couchbase Mobile: Installing Couchbase Server",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Getting Comfortable with Couchbase Mobile: Installing Couchbase Server"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.429638,
+    "updated_on": 1479340320.0,
+    "uuid": "220794b8db9ac3c0445e833486c1ba67b58a1d18"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/.net-and-couchbase-october-2016-new-york-code-camp-video",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/.net-and-couchbase-october-2016-new-york-code-camp-video",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Wed, 16 Nov 2016 15:31:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            16,
+            15,
+            31,
+            0,
+            2,
+            321,
+            0
+        ],
+        "summary": "<p>I was a speaker at the <a href=\"http://codecampnyc.org/\">Code Camp NYC</a> conference on October 8, 2016. My topic was Full Stack Development with .NET and NoSQL. The organizers and venue allowed me to record the session, and so I\u2019ve posted it on YouTube.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>I was a speaker at the <a href=\"http://codecampnyc.org/\">Code Camp NYC</a> conference on October 8, 2016. My topic was Full Stack Development with .NET and NoSQL. The organizers and venue allowed me to record the session, and so I\u2019ve posted it on YouTube.</p>"
+        },
+        "title": ".NET and Couchbase - October 2016, New York Code Camp (video)",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": ".NET and Couchbase - October 2016, New York Code Camp (video)"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.429973,
+    "updated_on": 1479310260.0,
+    "uuid": "7a6a5f3bb9d8624676bd0f32f959cfbb226ca2cc"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/getting-started-with-java-and-couchbase",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/getting-started-with-java-and-couchbase",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 15 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            15,
+            15,
+            0,
+            0,
+            1,
+            320,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Getting Started with Java and Couchbase",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Getting Started with Java and Couchbase"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.4303,
+    "updated_on": 1479222000.0,
+    "uuid": "7464959ffb1c44d935e15eb486f824a19d065553"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Matthew Groves",
+        "author_detail": {
+            "name": "Matthew Groves"
+        },
+        "authors": [
+            {
+                "name": "Matthew Groves"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/mebricks.jpg/mebricks.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/docker-and-asp.net-core-with-couchbase-server",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/docker-and-asp.net-core-with-couchbase-server",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 14 Nov 2016 19:55:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            14,
+            19,
+            55,
+            0,
+            0,
+            319,
+            0
+        ],
+        "summary": "<p>In many of my blog posts and samples, I use a single Couchbase Server node. I do this because it\u2019s easy, and much of what I demonstrate can be done with a single node. However, Couchbase Server is typically run on multiple nodes in production (sometimes 3, sometimes 3000). In order to simulate this locally, I can use some lightweight Docker containers.</p>\n\n<p>While I\u2019m at it, I\u2019m going to show you how to get started with an ASP.NET Core website, also running on Docker.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>In many of my blog posts and samples, I use a single Couchbase Server node. I do this because it\u2019s easy, and much of what I demonstrate can be done with a single node. However, Couchbase Server is typically run on multiple nodes in production (sometimes 3, sometimes 3000). In order to simulate this locally, I can use some lightweight Docker containers.</p>\n\n<p>While I\u2019m at it, I\u2019m going to show you how to get started with an ASP.NET Core website, also running on Docker.</p>"
+        },
+        "title": "Docker and ASP.NET Core with Couchbase Server",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Docker and ASP.NET Core with Couchbase Server"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.43064,
+    "updated_on": 1479153300.0,
+    "uuid": "d368ae36263bb24eba83f701fd8d92711449529d"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/docker-health-check-keeping-containers-healthy",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/docker-health-check-keeping-containers-healthy",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Sat, 12 Nov 2016 03:30:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            12,
+            3,
+            30,
+            0,
+            5,
+            317,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Health Check of Docker Containers",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Health Check of Docker Containers"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.430958,
+    "updated_on": 1478921400.0,
+    "uuid": "25deff47bd05aad42030ad354c7447b8a755aba2"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Brett Lawson",
+        "author_detail": {
+            "name": "Brett Lawson"
+        },
+        "authors": [
+            {
+                "name": "Brett Lawson"
+            }
+        ],
+        "avatar": "/content/gallery/website/common/estaff/img_20150916_131753.jpg/img_20150916_131753.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/cbas-dashboard-node",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/cbas-dashboard-node",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Thu, 10 Nov 2016 22:12:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            10,
+            22,
+            12,
+            0,
+            3,
+            315,
+            0
+        ],
+        "summary": "<p>In the world of Big Data, where we have gogolbytes of information available about all aspects of our applications and the users that are interacting with them, being able to analyze all of this data and provide insightful intelligence is paramount. &nbsp;At Couchbase, we are working to build data management platforms that let you take advantage of this data.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>In the world of Big Data, where we have gogolbytes of information available about all aspects of our applications and the users that are interacting with them, being able to analyze all of this data and provide insightful intelligence is paramount. &nbsp;At Couchbase, we are working to build data management platforms that let you take advantage of this data.</p>"
+        },
+        "title": "Visualization Dashboard with Couchbase Analytics",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Visualization Dashboard with Couchbase Analytics"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.431301,
+    "updated_on": 1478815920.0,
+    "uuid": "fc772c39a0e2e7993d0d4b94c4d8d6d67d24137b"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Anil Kumar",
+        "author_detail": {
+            "name": "Anil Kumar"
+        },
+        "authors": [
+            {
+                "name": "Anil Kumar"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/anilk.png/anilk.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/introducing-couchbase-server-4.6.0-developer-preview",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/introducing-couchbase-server-4.6.0-developer-preview",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 07 Nov 2016 17:48:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            7,
+            17,
+            48,
+            0,
+            0,
+            312,
+            0
+        ],
+        "summary": "<p>Today, we\u2019re very excited to announce the availability of Couchbase Server 4.6.0 DP. This is an early developer release that comes with some exciting capabilities for cross datacenter replication, security, query, tools, and powerful full text search capability. The Developer Preview release also adds support for MAC OSX Sierra and Microsoft Windows 10 Anniversary Edition.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>Today, we\u2019re very excited to announce the availability of Couchbase Server 4.6.0 DP. This is an early developer release that comes with some exciting capabilities for cross datacenter replication, security, query, tools, and powerful full text search capability. The Developer Preview release also adds support for MAC OSX Sierra and Microsoft Windows 10 Anniversary Edition.</p>"
+        },
+        "title": "Introducing Couchbase Server 4.6.0 Developer Preview",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Introducing Couchbase Server 4.6.0 Developer Preview"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.431641,
+    "updated_on": 1478540880.0,
+    "uuid": "65d2c5514aaea451d72c62195898d61a7f2b1b4b"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Will Gardella",
+        "author_detail": {
+            "name": "Will Gardella"
+        },
+        "authors": [
+            {
+                "name": "Will Gardella"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/w_gardella.jpg/w_gardella.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/analytics-dp-1",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/analytics-dp-1",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 07 Nov 2016 11:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            7,
+            11,
+            0,
+            0,
+            0,
+            312,
+            0
+        ],
+        "summary": "<p>We\u2019re excited to announce the first Developer Preview of Couchbase Analytics, which adds parallel data management to Couchbase Server. This increases the spectrum of queries that Couchbase Server handles without compromising the basic design principles of being agile, fast, and elastic. &nbsp;</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>We\u2019re excited to announce the first Developer Preview of Couchbase Analytics, which adds parallel data management to Couchbase Server. This increases the spectrum of queries that Couchbase Server handles without compromising the basic design principles of being agile, fast, and elastic. &nbsp;</p>"
+        },
+        "title": "Announcing Couchbase Analytics Developer Preview 1",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Announcing Couchbase Analytics Developer Preview 1"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.431974,
+    "updated_on": 1478516400.0,
+    "uuid": "5ee399d94c6bce7a68ef73392957e2a3bb64e6e9"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Will Gardella",
+        "author_detail": {
+            "name": "Will Gardella"
+        },
+        "authors": [
+            {
+                "name": "Will Gardella"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/w_gardella.jpg/w_gardella.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/full-text-search-enhancements-in-couchbase-server-4.6",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/full-text-search-enhancements-in-couchbase-server-4.6",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 07 Nov 2016 06:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            7,
+            6,
+            0,
+            0,
+            0,
+            312,
+            0
+        ],
+        "summary": "<p>Today we\u2019re pleased to announce significant improvements in Full-Text Search (FTS) in <a href=\"http://developer.couchbase.com/documentation/server/4.6/introduction/whats-new.html\">Couchbase Server 4.6</a>. &nbsp;This blog describes what\u2019s new for search in 4.6:</p>\n\n<ol>\n <li>Performance Improvements</li>\n <li>Index Type Mapping By Key</li>\n <li>Custom Sorting</li>\n</ol>\n\n<p style=\"text-align:left\">&nbsp;</p>\n\n<p style=\"text-align:left\">Couchbase Server FTS runs seamlessly across your cluster and provides search capabilities similar to Elasticsearch. &nbsp;<a href=\"http://blog.couchbase.com/2016/june/multi-node-full-text-search\" style=\"background-color: rgb(255, 255, 255); text-align: left;\">FTS \u201cjust works\u201d distributed</a>&nbsp;- you don&apos;t have to do anything special to run mulit-node search distributed across your cluster - you manage it the same way users have come to expect from Couchbase Server. For example, you can add hardware, rebalance, and Couchbase Server distributes indexes across the cluster so that the newly provisioned nodes start handling search workload. &nbsp;This is part of the goal: to make simple search simple, for both developers and admins.</p>\n\n<p style=\"text-align:left\"><br />\nNote that FTS is in developer preview&nbsp;and will remain in developer preview even after Couchbase Server 4.6 goes GA. We invite you to try it out and share your feedback.</p>\n\n<p style=\"text-align:left\">&nbsp;</p>\n\n<ul>\n <li style=\"text-align:left\">4.6 Release Notes - LINK</li>\n <li style=\"text-align:left\">Couchbase 4.6 Downloads - LINK</li>\n <li style=\"text-align:left\">Couchbase Documentation - LINK</li>\n</ul>\n\n<p>&nbsp;</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>Today we\u2019re pleased to announce significant improvements in Full-Text Search (FTS) in <a href=\"http://developer.couchbase.com/documentation/server/4.6/introduction/whats-new.html\">Couchbase Server 4.6</a>. &nbsp;This blog describes what\u2019s new for search in 4.6:</p>\n\n<ol>\n <li>Performance Improvements</li>\n <li>Index Type Mapping By Key</li>\n <li>Custom Sorting</li>\n</ol>\n\n<p style=\"text-align:left\">&nbsp;</p>\n\n<p style=\"text-align:left\">Couchbase Server FTS runs seamlessly across your cluster and provides search capabilities similar to Elasticsearch. &nbsp;<a href=\"http://blog.couchbase.com/2016/june/multi-node-full-text-search\" style=\"background-color: rgb(255, 255, 255); text-align: left;\">FTS \u201cjust works\u201d distributed</a>&nbsp;- you don&apos;t have to do anything special to run mulit-node search distributed across your cluster - you manage it the same way users have come to expect from Couchbase Server. For example, you can add hardware, rebalance, and Couchbase Server distributes indexes across the cluster so that the newly provisioned nodes start handling search workload. &nbsp;This is part of the goal: to make simple search simple, for both developers and admins.</p>\n\n<p style=\"text-align:left\"><br />\nNote that FTS is in developer preview&nbsp;and will remain in developer preview even after Couchbase Server 4.6 goes GA. We invite you to try it out and share your feedback.</p>\n\n<p style=\"text-align:left\">&nbsp;</p>\n\n<ul>\n <li style=\"text-align:left\">4.6 Release Notes - LINK</li>\n <li style=\"text-align:left\">Couchbase 4.6 Downloads - LINK</li>\n <li style=\"text-align:left\">Couchbase Documentation - LINK</li>\n</ul>\n\n<p>&nbsp;</p>"
+        },
+        "title": "Faster Search, Sorting, Mapping by Keys: FTS Enhancements in Couchbase Server 4.6",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Faster Search, Sorting, Mapping by Keys: FTS Enhancements in Couchbase Server 4.6"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.432303,
+    "updated_on": 1478498400.0,
+    "uuid": "93bf53a850d059557f50ca2482b0cd0f1d267c39"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/ndp-episode-12-firebase-instead-of-sqlite-in-mobile-applications",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/ndp-episode-12-firebase-instead-of-sqlite-in-mobile-applications",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Fri, 04 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            4,
+            15,
+            0,
+            0,
+            4,
+            309,
+            0
+        ],
+        "slash_comments": "0",
+        "summary": "In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />In past posts, we talked about Inner Source and the benefits for your organization. Some large organizations, such Paypal or Zalando started their own process to approach Inner Source; we can say without a doubt that each of them has &#8230; <a href=\"https://blog.bitergia.com/2016/11/25/is-your-company-ready-for-inner-source/\">Continue reading <span class=\"meta-nav\">&#8594;</span></a><img alt=\"\" border=\"0\" height=\"1\" src=\"https://pixel.wp.com/b.gif?host=blog.bitergia.com&#038;blog=32615158&#038;post=3155&#038;subd=bitergia&#038;ref=&#038;feed=1\" width=\"1\" />"
+        },
+        "title": "NDP Episode #12: Firebase Instead of SQLite in Mobile Applications",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "NDP Episode #12: Firebase Instead of SQLite in Mobile Applications"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.43263,
+    "updated_on": 1478271600.0,
+    "uuid": "4967f4a56aa4fcdae61625e80486e68d4faaaa72"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Mike Goldsmith",
+        "author_detail": {
+            "name": "Mike Goldsmith"
+        },
+        "authors": [
+            {
+                "name": "Mike Goldsmith"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/mikegoldsmith.jpeg/mikegoldsmith.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/couchbase-.net-sdk-2.3.9-now-available",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/couchbase-.net-sdk-2.3.9-now-available",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Fri, 04 Nov 2016 10:10:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            4,
+            10,
+            10,
+            0,
+            4,
+            309,
+            0
+        ],
+        "title": "Couchbase .NET SDK 2.3.9 Now Available!",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Couchbase .NET SDK 2.3.9 Now Available!"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.432961,
+    "updated_on": 1478254200.0,
+    "uuid": "d2d4a6440e2ef2a824bcc7991ff2eafed6091b99"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/docker-for-aws-getting-started-video",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/docker-for-aws-getting-started-video",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Thu, 03 Nov 2016 20:15:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            3,
+            20,
+            15,
+            0,
+            3,
+            308,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Docker for AWS - Getting Started Video",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Docker for AWS - Getting Started Video"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.433288,
+    "updated_on": 1478204100.0,
+    "uuid": "9a3598169ac25db51d0c67534cb7e5137866b7c6"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/multimaster-kubernetes-cluster-amazon-kops",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/multimaster-kubernetes-cluster-amazon-kops",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Wed, 02 Nov 2016 19:13:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            2,
+            19,
+            13,
+            0,
+            2,
+            307,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Multimaster Kubernetes Cluster on Amazon Using Kops",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Multimaster Kubernetes Cluster on Amazon Using Kops"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.433615,
+    "updated_on": 1478113980.0,
+    "uuid": "79eb1508a69687347f1acb7d3242d097e3c20b39"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/developing-an-api-with-golang-using-couchbase-nosql-and-n1ql",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/developing-an-api-with-golang-using-couchbase-nosql-and-n1ql",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Wed, 02 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            2,
+            15,
+            0,
+            0,
+            2,
+            307,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Developing an API with Golang using Couchbase NoSQL and N1QL",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Developing an API with Golang using Couchbase NoSQL and N1QL"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.433952,
+    "updated_on": 1478098800.0,
+    "uuid": "ce7f37591c16499e0b5f670dbd367866369b529f"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Justin Michaels",
+        "author_detail": {
+            "name": "Justin Michaels"
+        },
+        "authors": [
+            {
+                "name": "Justin Michaels"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/justinm.jpg/justinm.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/monitoring-couchbase",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/monitoring-couchbase",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 01 Nov 2016 23:38:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            1,
+            23,
+            38,
+            0,
+            1,
+            306,
+            0
+        ],
+        "summary": "<p style=\"text-align:left\">Typically the real need by devops teams are not broader monitoring frameworks but simple scripts that can be leveraged. Many times cross functional teams are diagnosing issues in &quot;war room&quot; settings and want simple ways to digest recent events within a cluster.</p>\n\n<p style=\"text-align:left\">The goal here is not to provide a comprehensive model but to outline a simple implementaiton that consumes Couchbase metrics via our REST API and command-line tools. Once we get something in place that can digest these metrics on a regular basis we will need to store these somewhere. In this walk through we&apos;ll store these metrics in a Couchbase bucket and use N1QL to understand what&apos;s happening in a given cluster.&nbsp;</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p style=\"text-align:left\">Typically the real need by devops teams are not broader monitoring frameworks but simple scripts that can be leveraged. Many times cross functional teams are diagnosing issues in &quot;war room&quot; settings and want simple ways to digest recent events within a cluster.</p>\n\n<p style=\"text-align:left\">The goal here is not to provide a comprehensive model but to outline a simple implementaiton that consumes Couchbase metrics via our REST API and command-line tools. Once we get something in place that can digest these metrics on a regular basis we will need to store these somewhere. In this walk through we&apos;ll store these metrics in a Couchbase bucket and use N1QL to understand what&apos;s happening in a given cluster.&nbsp;</p>"
+        },
+        "title": "Couchbase Monitoring",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Couchbase Monitoring"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.434288,
+    "updated_on": 1478043480.0,
+    "uuid": "84cb3876f4212299a42125a27d6979933708e1e5"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Don Pinto",
+        "author_detail": {
+            "name": "Don Pinto"
+        },
+        "authors": [
+            {
+                "name": "Don Pinto"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/donp.jpg/donp.jpg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/couchbase-4.1.1-ce-is-now-available",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/couchbase-4.1.1-ce-is-now-available",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 01 Nov 2016 16:07:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            1,
+            16,
+            7,
+            0,
+            1,
+            306,
+            0
+        ],
+        "summary": "<p>We are glad to announce that Couchbase Community Edition 4.1.1 is generally available.</p>",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "<p>We are glad to announce that Couchbase Community Edition 4.1.1 is generally available.</p>"
+        },
+        "title": "Couchbase Server 4.1.1 CE is now available",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Couchbase Server 4.1.1 CE is now available"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.434652,
+    "updated_on": 1478016420.0,
+    "uuid": "5759540afe7fb1e49e6933658eb42d5610327fc6"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/november/getting-started-with-golang-and-couchbase",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/november/getting-started-with-golang-and-couchbase",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Tue, 01 Nov 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            11,
+            1,
+            15,
+            0,
+            0,
+            1,
+            306,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Getting Started with Golang and Couchbase",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Getting Started with Golang and Couchbase"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.435,
+    "updated_on": 1478012400.0,
+    "uuid": "9480e3908964bdefce839a78696087d674787c9e"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "avatar": "/content/gallery/speakers/speakersCouchbase/arun_headshot.png/arun_headshot.png/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/october/docker-container-anti-patterns",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/october/docker-container-anti-patterns",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Mon, 31 Oct 2016 03:24:00 +0000",
+        "published_parsed": [
+            2016,
+            10,
+            31,
+            3,
+            24,
+            0,
+            0,
+            305,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Docker Container Anti Patterns",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Docker Container Anti Patterns"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.435354,
+    "updated_on": 1477884240.0,
+    "uuid": "bafaa6022d0af030ef74de781b70c612b67b4ed5"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Nic Raboy",
+        "author_detail": {
+            "name": "Nic Raboy"
+        },
+        "authors": [
+            {
+                "name": "Nic Raboy"
+            }
+        ],
+        "avatar": "/content/gallery/website/speaker/nic_raboy_headshot.jpeg/nic_raboy_headshot.jpeg/hippogallery:original",
+        "link": "http://blog.couchbase.com/2016/october/storing-password-data-safely-with-java-and-spring-security-bcrypt",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/october/storing-password-data-safely-with-java-and-spring-security-bcrypt",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Sat, 29 Oct 2016 15:00:00 +0000",
+        "published_parsed": [
+            2016,
+            10,
+            29,
+            15,
+            0,
+            0,
+            5,
+            303,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Storing Password Data Safely with Java and Spring Security BCrypt",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Storing Password Data Safely with Java and Spring Security BCrypt"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.435695,
+    "updated_on": 1477753200.0,
+    "uuid": "4bbbcf5567d162f7c2413af3469329743c5e4aa1"
+},{
+    "backend_name": "RSS",
+    "backend_version": "0.3.0",
+    "category": "entry",
+    "data": {
+        "author": "Arun Gupta",
+        "author_detail": {
+            "name": "Arun Gupta"
+        },
+        "authors": [
+            {
+                "name": "Arun Gupta"
+            }
+        ],
+        "link": "http://blog.couchbase.com/2016/october/docker-on-windows-2016-server",
+        "links": [
+            {
+                "href": "http://blog.couchbase.com/2016/october/docker-on-windows-2016-server",
+                "rel": "alternate",
+                "type": "text/html"
+            }
+        ],
+        "published": "Fri, 28 Oct 2016 15:47:00 +0000",
+        "published_parsed": [
+            2016,
+            10,
+            28,
+            15,
+            47,
+            0,
+            4,
+            302,
+            0
+        ],
+        "summary": "",
+        "summary_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": ""
+        },
+        "title": "Docker on Windows 2016 Server",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "Docker on Windows 2016 Server"
+        }
+    },
+    "origin": "http://example.com/rss",
+    "perceval_version": "0.9.10",
+    "tag": "http://example.com/rss",
+    "timestamp": 1518165765.436055,
+    "updated_on": 1477669620.0,
+    "uuid": "83f2cb454934914425569c5b9a634ce4dcb7d20e"
+}]

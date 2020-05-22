@@ -1,0 +1,66 @@
+elasticsearch:
+  restart: "always" 
+  image: elasticsearch:2.2
+  command: elasticsearch -Des.network.bind_host=0.0.0.0 -Des.path.repo='/backups' -Dhttp.max_content_length=2000m
+  volumes:
+    - ${DATA_DOCKER}/docker_data_persistence/project/elastic_search-index/:/usr/share/elasticsearch/data
+    - ${DATA_DOCKER}/docker_data_persistence/project/backups/:/backups
+  ports:
+    - "127.0.0.1:9200:9200" 
+
+kibiter-edit:
+  restart: "always" 
+  image: bitergia/kibiter:4.4.1
+  environment:
+    # - BASE_PATH=/project-edit
+    - PROJECT_NAME=Project
+    - NODE_OPTIONS=--max-old-space-size=200
+  links:
+    - elasticsearch
+  ports:
+    - "127.0.0.1:5601:5601"
+  # To customize quick links in Kibana
+  # volumes:
+  #   - ${DATA_DOCKER}/docker_data_persistence/project/quick_ranges-4.4.1.js:/opt/kibana/src/ui/public/timepicker/quick_ranges.js
+
+kibiter:
+  restart: "always" 
+  image: bitergia/kibiter:4.4.1-public
+  environment:
+    # - BASE_PATH=/project
+    - PROJECT_NAME=Project
+    - NODE_OPTIONS=--max-old-space-size=200
+  links:
+    - elasticsearch
+  ports:
+    - "127.0.0.1:5602:5601" 
+  # To customize quick links in Kibana
+  # volumes:
+  #   - ${DATA_DOCKER}/docker_data_persistence/project/quick_ranges-4.4.1.js:/opt/kibana/src/ui/public/timepicker/quick_ranges.js
+
+mariadbdata:
+    image: mariadb:10.0
+    volumes:
+        - /var/lib/mysql
+    restart: "no"
+    command: /bin/echo "Data-only container for mariadb."
+
+mariadb:
+    image: mariadb:10.0
+    volumes_from:
+        - mariadbdata
+    expose:
+        - "3306"
+    environment:
+        - MYSQL_ROOT_PASSWORD=
+        - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+
+redis:
+    image: redis
+
+gelk:
+    image: bitergia/gelk
+    links:
+        - elasticsearch
+        - mariadb
+        - redis

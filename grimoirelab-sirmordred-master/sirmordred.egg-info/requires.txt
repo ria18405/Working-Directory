@@ -1,0 +1,6 @@
+grimoire-elk>=0.32
+kidash>=0.4.13
+sortinghat>=0.7
+elasticsearch==6.3.1
+elasticsearch-dsl==6.3.1
+file-read-backwards==2.0.0
