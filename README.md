@@ -71,79 +71,52 @@
 	}
 	```
 
-6. Execute a script `ES2Excel` which will convert Elastic Search index(`all_scms`) into an Excel sheet.
-	`python3 utils/ES2Excel.py`
+6. Install Dependencies:
+	`pip install gspread oauth2client`
+	`pip install openpyxl`
 
-7. Convert the Excel sheet into Google Sheets using GoogleSheets API. For this, set up the `SCMS-creds.json` file present in utils directory. 
+7. Set up `SCMS-creds.json` file with your credentials for using Google Sheet API. 
 
-### STEP 2: Tagging:
+8. Execute a script `ES2GSheet` which will convert Elastic Search index(`all_scms`) into a Google Sheet.
+(Output: Enriched data from Elastic Search is uploaded on Google Sheet).
+	```
+	cd utils/
+	python3 ES2GSheet.py 
+	```
+We have set up our first basic instance for SCMS Implementation.
 
-1. Tag all records of the spreadsheet by adding 'scms_tag', 'category','weight'.
+### STEP 2: Tagging & Codex formation:
 
-2. The possible scms tags are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Trust`.
+1. Set up a codex, containing the definitions, use cases of all social currencies, categories.
 
-3. The possible categories depends from 1 community to the other. 
+2. Tag all records of the spreadsheet by adding 'category','weight', 'SCMS Tags' (You can add upto 5 tags: Tag 1, Tag 2, Tag 3, Tag 4, Tag 5)
 
-4. Weight is considered from `-3` to `+3`, where a higher weight indicates a more relevant comment/discussion.
+The possible scms tags are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Trust`.
+
+3. The Categories varies from 1 community to the other. 
+
+4. Weight is also community dependent, there are many weighing scales, and methods that one can incorporate. We usually consider weight from `-3` to `+3`, where 
+	- +ve weight = very relevant comment wrt the project, community
+	- 0 weight = neutral relevance
+	- -ve weight = completely irrelevant/ unnecessary discussion comments.
+
+You can also set Weight based on a Happiness method where 
+	- +ve weight = positive comment,
+	- 0 weight = neutral, 
+	- -ve weight = negative comment	
+
+5. Keep the codex updated as the tagging proceeds.
 
 ### STEP 3: Google Sheet to Dashboard
 
-1. Import the Google Sheet into a CSV(.csv) or Excel file(.xls)
+1. Import the Google Sheet into a CSV(.csv)- current file
 
-2. Convert the Excel file to a JSON file using a script `Excel2Dashboard`. 
-
-		`python3 utils/Excel2Dashbaord.py`
-
-	The format of the JSON file is:
-	```
-	[
-	    {
-	        "conditions": [
-	            {
-	                "field": "id",
-	                "value": "123456789"
-	            }
-	        ],
-	        "set_extra_fields": [
-	            {
-	                "field": "scms_tags",
-	                "value": [
-	                    "trust",
-	                    "Consistency"
-	                ]
-	            }
-	        ]
-	    },
-	    {
-	        "conditions": [
-	            {
-	                "field": "id",
-	                "value": "123456789"
-	            }
-	        ],
-	        "set_extra_fields": [
-	            {
-	                "field": "Weight",
-	                "value": 0
-	            }
-	        ]
-	    },
-	    {
-	        "conditions": [
-	            {
-	                "field": "id",
-	                "value": "123456789"
-	            }
-	        ],
-	        "set_extra_fields": [
-	            {
-	                "field": "Category",
-	                "value": "Transactional"
-	            }
-	        ]
-	    }
-	]
-	```
+2. Convert the CSV file to a JSON file using a script `GSheet2Dashboard`. 
+		```
+		cd utils/
+		python3 utils/GSheet2Dashbaord.py
+		```
+		
 
 3. Now, we need to execute a study `enrich_extra_data` to include the tagged information back to the Enriched index. The definition of this study can be found [here](https://github.com/chaoss/grimoirelab-elk/blob/master/grimoire_elk/enriched/enrich.py#L1066).
 Enrich extra data by modifying the `setup.cfg` as below.
@@ -174,7 +147,9 @@ Enrich extra data by modifying the `setup.cfg` as below.
 	json_url=https://gist.githubusercontent.com/ria18405/630346bac7856658fd19ed63bce4d9c0/raw/61d3afc8aab75219f8ab67218ec377a641cd664b/try.json
 	```
 
-4. Execute modred the same way as done above.
+4. Execute modred the same way as done above:
+	
+	`--enrich --panels --cfg ./setup.cfg --backends scmssupybot scmsgithub scmspipermail`
 
 5. Click on 'SCMS' on the top menu icon, and enjoy the dashboard 
 	![Image description](assets/dash1.png)
