@@ -72,8 +72,8 @@
 	```
 
 6. Install Dependencies:
-	`pip install gspread oauth2client`
-	`pip install openpyxl`
+	* `pip install gspread oauth2client`
+	* `pip install openpyxl`
 
 7. Set up `SCMS-creds.json` file with your credentials for using Google Sheet API. 
 
@@ -83,24 +83,26 @@
 	cd utils/
 	python3 ES2GSheet.py 
 	```
-We have set up our first basic instance for SCMS Implementation.
+We have set up our first basic instance for SCMS Implementation!
 
 ### STEP 2: Tagging & Codex formation:
 
 1. Set up a codex, containing the definitions, use cases of all social currencies, categories.
 
-2. Tag all records of the spreadsheet by adding 'category','weight', 'SCMS Tags' (You can add upto 5 tags: Tag 1, Tag 2, Tag 3, Tag 4, Tag 5)
+2. Tag all records of the spreadsheet by adding 'category','weight', 'SCMS Tags' (You can add upto 5 SCMS tags: Tag 1, Tag 2, Tag 3, Tag 4, Tag 5)
 
-The possible scms tags are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Trust`.
+The scms currencies are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Trust`.
 
 3. The Categories varies from 1 community to the other. 
 
 4. Weight is also community dependent, there are many weighing scales, and methods that one can incorporate. We usually consider weight from `-3` to `+3`, where 
+
 	- +ve weight = very relevant comment wrt the project, community
 	- 0 weight = neutral relevance
 	- -ve weight = completely irrelevant/ unnecessary discussion comments.
 
-You can also set Weight based on a Happiness method where 
+You can also set Weight based on a Happiness method where
+
 	- +ve weight = positive comment,
 	- 0 weight = neutral, 
 	- -ve weight = negative comment	
@@ -112,6 +114,7 @@ You can also set Weight based on a Happiness method where
 1. Import the Google Sheet into a CSV(.csv)- current file
 
 2. Convert the CSV file to a JSON file using a script `GSheet2Dashboard`. 
+
 		```
 		cd utils/
 		python3 utils/GSheet2Dashbaord.py
