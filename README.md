@@ -4,20 +4,20 @@
 
 1. Set up GrimpoireLab SirModred. ([Getting-Started](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/Getting-Started.md#getting-started-)) 
 
-2. According to the datasources to be analysed, Set `projects.json` and `setup.cfg` as mentioned [here](https://github.com/chaoss/grimoirelab-sirmordred#supported-data-sources-)
+2. According to the channels to be analysed, Set `projects.json` and `setup.cfg` as mentioned [here](https://github.com/chaoss/grimoirelab-sirmordred#supported-data-sources-)
 
 	A simple example could be: 
 	1. Set `setup.cfg` as:
 	
 	```
 		[scmspipermail]
-		raw_index = scmspipermail_chaoss_raw
-		enriched_index = scmspipermail_chaoss_enriched
+		raw_index = scmspipermail_raw
+		enriched_index = scmspipermail_enriched
 		no-ssl-verify = true
 
 		[scmsgithub]
-		raw_index = scmsgithub_chaoss_raw
-		enriched_index = scmsgithub_chaoss_enriched
+		raw_index = scmsgithub_raw
+		enriched_index = scmsgithub_enriched
 		api-token = xxxx
 		sleep-for-rate = true
 		no-archive = true
@@ -25,8 +25,8 @@
 		sleep-time = 300
 
 		[scmssupybot]
-		raw_index = scmssupybot_chaoss_raw
-		enriched_index = scmssupybot_chaoss_enriched
+		raw_index = scmssupybot_raw
+		enriched_index = scmssupybot_enriched
 	```
 
 	
@@ -64,9 +64,9 @@
 	POST /_aliases
 	{
 	    "actions" : [
-	        { "add" : { "index" : "scmspipermail_chaoss_enriched", "alias" : "all_scms" } },
-	        { "add" : { "index" : "scmsgithub_chaoss_enriched", "alias" : "all_scms" } },
-	        { "add" : { "index" : "scmssupybot_chaoss_enriched", "alias" : "all_scms" } }
+	        { "add" : { "index" : "scmspipermail_enriched", "alias" : "all_scms" } },
+	        { "add" : { "index" : "scmsgithub_enriched", "alias" : "all_scms" } },
+	        { "add" : { "index" : "scmssupybot_enriched", "alias" : "all_scms" } }
 	    ]
 	}
 	```
@@ -110,7 +110,7 @@ The scms currencies are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Tru
 
 ### STEP 3: Google Sheet to Dashboard
 
-1. Downlaod the Google Sheet as a CSV(.csv)- current file
+1. Download the Google Sheet as a CSV(.csv)- current file
 
 2. Convert the CSV file to a JSON file using a script `GSheet2Dashboard`. 
 
@@ -118,21 +118,23 @@ The scms currencies are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Tru
 		cd utils/
 		python3 utils/GSheet2Dashbaord.py
 		```
-		
+	(Output: "extra_data.json")
+
+3. Upload this json file to a github gist and set the url of this json gist in the setup.cfg file as explained below. 
 
 3. Now, we need to execute a study `enrich_extra_data` to include the tagged information back to the Enriched index. The definition of this study can be found [here](https://github.com/chaoss/grimoirelab-elk/blob/master/grimoire_elk/enriched/enrich.py#L1066).
 Enrich extra data by modifying the `setup.cfg` as below.
 
 	```
 	[scmspipermail]
-	raw_index = scmspipermail_chaoss_raw
-	enriched_index = scmspipermail_chaoss_enriched
+	raw_index = scmspipermail_raw
+	enriched_index = scmspipermail_enriched
 	no-ssl-verify = true
 	studies = [enrich_extra_data:scms]
 
 	[scmsgithub]
-	raw_index = scmsgithub_chaoss_raw
-	enriched_index = scmsgithub_chaoss_enriched
+	raw_index = scmsgithub_raw
+	enriched_index = scmsgithub_enriched
 	api-token = xxxx
 	sleep-for-rate = true
 	no-archive = true
@@ -141,13 +143,15 @@ Enrich extra data by modifying the `setup.cfg` as below.
 	studies = [enrich_extra_data:scms]
 
 	[scmssupybot]
-	raw_index = scmssupybot_chaoss_raw
-	enriched_index = scmssupybot_chaoss_enriched
+	raw_index = scmssupybot_raw
+	enriched_index = scmssupybot_enriched
 	studies = [enrich_extra_data:scms]
 
 	[enrich_extra_data:scms]
 	json_url=https://gist.githubusercontent.com/ria18405/630346bac7856658fd19ed63bce4d9c0/raw/61d3afc8aab75219f8ab67218ec377a641cd664b/try.json
 	```
+	
+	(Set json_url as the gist url containing all extra data)
 
 4. Execute modred the same way as done above:
 	
