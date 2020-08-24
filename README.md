@@ -101,8 +101,7 @@ The scms currencies are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Tru
 	- 0 weight = neutral relevance
 	- -ve weight = completely irrelevant/ unnecessary discussion comments.
 
-You can also set Weight based on a Happiness method where
-
+	You can also set Weight based on a Happiness method where
 	- +ve weight = positive comment,
 	- 0 weight = neutral, 
 	- -ve weight = negative comment	
@@ -111,7 +110,7 @@ You can also set Weight based on a Happiness method where
 
 ### STEP 3: Google Sheet to Dashboard
 
-1. Import the Google Sheet into a CSV(.csv)- current file
+1. Downlaod the Google Sheet as a CSV(.csv)- current file
 
 2. Convert the CSV file to a JSON file using a script `GSheet2Dashboard`. 
 
