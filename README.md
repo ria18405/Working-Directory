@@ -71,13 +71,9 @@
 	}
 	```
 
-6. Install Dependencies:
-	* `pip install gspread oauth2client`
-	* `pip install openpyxl`
+6. Set up `SCMS-creds.json` file with your credentials for using Google Sheet API. 
 
-7. Set up `SCMS-creds.json` file with your credentials for using Google Sheet API. 
-
-8. Execute a script `ES2GSheet` which will convert Elastic Search index(`all_scms`) into a Google Sheet.
+7. Execute a script `ES2GSheet` which will convert Elastic Search index(`all_scms`) into a Google Sheet.
 (Output: Enriched data from Elastic Search is uploaded on Google Sheet).
 	```
 	cd utils/
