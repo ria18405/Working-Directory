@@ -1,8 +1,0 @@
-{
-  "grimoire": {
-    "git": [
-        "https://github.com/VizGrimoire/GrimoireLib --filter-no-collection=true",
-        "https://github.com/MetricsGrimoire/CMetrics"
-    ]
-  }
-}

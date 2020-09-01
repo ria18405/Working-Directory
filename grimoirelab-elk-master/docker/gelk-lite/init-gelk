@@ -1,3 +1,0 @@
-#!/bin/bash
-
-env LANG=en_US.utf8 TERM=xterm /bin/bash
