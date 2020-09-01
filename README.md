@@ -87,7 +87,7 @@
 	```
 6. Set up `SCMS-creds.json` file with your credentials for using Google Sheet API. 
 
-7. Execute a script `ES2GSheet` which will convert Elastic Search index(`all_scms`) into a Google Sheet.
+7. Execute a script [`ES2GSheet`](https://github.com/ria18405/Working-Directory/blob/master/scripts/ES2GSheet.py) which will convert Elastic Search index(`all_scms`) into a Google Sheet.
 (Output: Enriched data from Elastic Search is uploaded on Google Sheet).
 	```
 	cd utils/
@@ -131,16 +131,17 @@ The scms currencies are: `Transparency`, `Utility`, `Consistency`, `Merit`, `Tru
 
 1. Download the Google Sheet as a CSV(.csv)- current file
 
-2. Convert the CSV file to a JSON file using a script `GSheet2Dashboard`. 
+2. Convert the CSV file to a JSON file using a script [`GSheet2Dashboard`](https://github.com/ria18405/Working-Directory/blob/master/scripts/GSheet2Dashboard.py). 
 
 	```
 		cd utils/
 		python3 utils/GSheet2Dashbaord.py
 	```
-	Output: "extra_data.json" (See Figure 6)
+	Output: "extra_data.json" (See Figure 3)
+	
 <div align="center">
 <img src= "https://imgur.com/y5ykO4H.png"  >
-<p>Figure 6: extra data json file</p></div>
+<p>Figure 3: extra data json file</p></div>
 
 3. Upload this json file to a github gist and set the url of this json gist in the setup.cfg file as explained below. 
 
@@ -181,12 +182,13 @@ Enrich extra data by modifying the `setup.cfg` as below.
 Now, we can analyse the dashboard formed. 
 
 6. Click on 'SCMS' on the top menu icon, and enjoy the dashboard 
-	<div align = "center" ><img src="https://imgur.com/urm0E4F.gif" width="650" height="400">
-<p>Figure 2: Dashboard of GrimoireLab</p>
+
+<div align = "center" ><img src="https://imgur.com/urm0E4F.gif" width="650" height="400">
+<p>Figure 4: Dashboard of GrimoireLab</p>
 </div>
 
 <div align="center">
-<img src="https://imgur.com/huHsBc9.gif"  width="650" height="400"><p>Figure 3: Dashboard of CHAOSS </p></div>
+<img src="https://imgur.com/huHsBc9.gif"  width="650" height="400"><p>Figure 5: Dashboard of CHAOSS </p></div>
 
 
 
